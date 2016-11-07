@@ -1,0 +1,27 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "makePdf.js",
+  "dependencies": {
+    "html-pdf": "^2.1.0",
+    "requestify": "^0.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "tes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saepulloh/riset-libary-node.git"
+  },
+  "keywords": [
+    "asdas"
+  ],
+  "author": "saepulloh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saepulloh/riset-libary-node/issues"
+  },
+  "homepage": "https://github.com/saepulloh/riset-libary-node#readme"
+}
